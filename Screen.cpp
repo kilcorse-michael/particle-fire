@@ -144,4 +144,4 @@ void Screen::close() {
 	SDL_Quit();
 }
 
-} /* namespace caveofprogramming */
+} /* namespace mak */
